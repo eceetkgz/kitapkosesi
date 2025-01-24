@@ -1,3 +1,4 @@
+ÖDEVİ YAPAN KİŞİ: ECE TOKGÖZ 
 # 📚 Kitap Köşesi
 
 Kitap Köşesi, kitapseverlerin kolayca kitap satın alabileceği, favorilerini kaydedebileceği ve siparişlerini yönetebileceği modern bir e-ticaret web uygulamasıdır.
