@@ -3,6 +3,8 @@
 Kitap Köşesi, kitapseverlerin kolayca kitap satın alabileceği, favorilerini kaydedebileceği ve siparişlerini yönetebileceği modern bir e-ticaret web uygulamasıdır.
 
 ## 🌟 Özellikler
+-kullanıcıya modern bir site görünümü sunar.
+-sürekli güncellenen stok özelliğiyle her zaman çeşitlilik fazladır.
 
 ### 📖 Kitap Yönetimi
 -Sistemde hangi kitapların olduğunu arama kutusu yardımıyla bulabilirsiniz.
